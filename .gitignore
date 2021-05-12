@@ -1,0 +1,12 @@
+.vs/
+__pycache__/
+env_*/
+env-*/
+**/yolov4-416/variables/
+*.weights
+*.mp4
+*.avi
+masks_machine/
+*.html
+faces/
+Mapping/mongo.pyc
