@@ -47,8 +47,9 @@ Is used to execute the codes for each camera at the same time. In this case, the
 ### Homography
 
 Briefly, the planar homography relates the transformation between two planes.
-
 The procedure is shown below
+
+![image](https://user-images.githubusercontent.com/62296738/122197842-e1963300-ce98-11eb-99b2-0e55dd5007dc.png)
 
 ### Mongo
 
