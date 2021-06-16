@@ -6,15 +6,15 @@ Each directory is briefly described hereafter, and more detailed README files ca
 
 In addition, a guide for building OpenCV with CUDA support for the DNN module is maintained [here](https://docs.google.com/document/d/1qRDi8voHjlAEyq6xXm3BSpu1nlvRAQ3B0Ip0NqSYwVY/edit?usp=sharing).
 
-## Camera location
-La Salle map with the location and "focus" of the cameras
 
-![image](https://user-images.githubusercontent.com/62296738/115376833-54ec3300-a1cf-11eb-89f8-4c7043fb8bab.png)
+## Map
 
-## Map zones
-La Salle map with the zones for the different cameras
+Visualization of the focus of the cameras and divided in different zones according to the location of the cameras 
 
-![image](https://user-images.githubusercontent.com/62296738/115544883-73236300-a2a3-11eb-8e61-74aebcaa36b5.png)
+Maps:
+
+- Camera location
+- Map zones 
 
 ## Cams
 
@@ -30,7 +30,7 @@ The output can be stored as a video or as JSON files.
 
 ## src
 
-This is the main folder of the project, inside there are the necessary codes that have been used for the multiprocess mode and the homography.
+This is the main folder of the project, it contains the codes that were used in this project after the detection was runned. Techniques such as multiprocessing and homography have been used to achieve this task.
 
 Topics:
 
@@ -38,11 +38,29 @@ Topics:
 - Homography 
 - Mongo
 
+### Multiprocess
+
+The multiprocessing module allows the programmer to fully leverage multiple processors on a given machine. The API used is similar to the classic threading module. It offers both local and remote concurrency.
+
+Is used to execute the codes for each camera at the same time. In this case, the main code communicate with the multiprocess codes to extract the necessary data to plot the positions on the map.
+
+### Homography
+
+Briefly, the planar homography relates the transformation between two planes.
+
+The procedure is shown below
+
+### Mongo
+
+MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases.
+
+It save the necessary information in JSON files format.
+
 ## Initial videos
 
 The initial videos are on the following folder:
 
-- [Initial videos]https://drive.google.com/drive/u/0/folders/1Dn62ek8EV1BpPnlsOO2rYxZ-wQqDSRWH
+- [Initial videos](https://drive.google.com/drive/u/0/folders/1Dn62ek8EV1BpPnlsOO2rYxZ-wQqDSRWH)
 
 
 
