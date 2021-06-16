@@ -17,6 +17,8 @@ pip install requirements.txt
 ```
 ## yolov4_opencv_json
 
+Use ```yolov4_opencv_json.py```.
+
 On that code, after incuding the necessaries parameters to be executed shown bellow, it create a JSON file for all the detections on the video.
 
 ```
@@ -79,7 +81,9 @@ If it also implements the tracker, the result it'll be:
 }
 ```
 
-## yolov4_opencv_json
+## yolov4_opencv_video
+
+Use ```yolov4_opencv_video.py```.
 
 It create a video drawing a bounding box for each detection on the frame.
 
