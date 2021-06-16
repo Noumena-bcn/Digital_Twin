@@ -28,3 +28,6 @@ https://drive.google.com/drive/u/0/folders/1M0l9dxL4aROsXvTc61jrJhNlM_yu1Zqr
 ## Initial videos
 The initial videos are on the following folder:
 https://drive.google.com/drive/u/0/folders/1Dn62ek8EV1BpPnlsOO2rYxZ-wQqDSRWH
+
+## Floor videos
+https://drive.google.com/drive/folders/14tlNH5MsLtoytXrMXISb9HL-4G3_EfgS
