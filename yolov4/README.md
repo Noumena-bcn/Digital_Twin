@@ -54,7 +54,7 @@ optional arguments:
 
 The final structrue of the JSON file is the next one:
 
-´´´
+```
 {
 	"video_source": video_name,
 	"detection_model": model_name,
@@ -63,11 +63,11 @@ The final structrue of the JSON file is the next one:
 	"bbox": [coordinates of the box],
 	"coordinates_image": {"x": x_obj, "y": y_obj}
 }
-´´´
+```
 
 If it also implements the tracker, the result it'll be:
 
-´´´
+```
 {
 	"video_source": video_name,
 	"detection_model": model_name,
@@ -77,7 +77,7 @@ If it also implements the tracker, the result it'll be:
 	"coordinates_image": {"x": x_obj, "y": y_obj}
 	"track_id": track_id
 }
-´´´
+```
 
 ## yolov4_opencv_json
 
