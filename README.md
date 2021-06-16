@@ -47,15 +47,19 @@ Is used to execute the codes for each camera at the same time. In this case, the
 ### Homography
 
 Briefly, the planar homography relates the transformation between two planes.
-The procedure is shown below
 
-![image](https://user-images.githubusercontent.com/62296738/122197842-e1963300-ce98-11eb-99b2-0e55dd5007dc.png)
+The procedure is shown below
 
 ### Mongo
 
 MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases.
 
 It save the necessary information in JSON files format.
+
+How to install:
+- MongoDB: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+- MongoDB Compass:https://docs.mongodb.com/compass/current/install/
+
 
 ## Initial videos
 
