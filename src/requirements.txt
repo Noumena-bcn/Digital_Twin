@@ -1,0 +1,12 @@
+numpy
+pymongo 
+json
+datetime
+os
+argparse
+multiprocessing
+cv2
+json
+copy
+matplotlib.pyplot
+
