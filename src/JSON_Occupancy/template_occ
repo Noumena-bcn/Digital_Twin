@@ -1,0 +1,431 @@
+[{
+  "_id": {
+    "$oid": "60cb126bb673d5807a70298d"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 0,
+    "Zone3": 0
+  },
+  "General": 1
+},{
+  "_id": {
+    "$oid": "60cb126bb673d5807a70298e"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 0,
+    "Zone3": 0
+  },
+  "General": 1
+},{
+  "_id": {
+    "$oid": "60cb126bb673d5807a70298f"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126bb673d5807a702990"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126bb673d5807a702991"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126bb673d5807a702992"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126cb673d5807a702993"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126cb673d5807a702994"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126cb673d5807a702995"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126cb673d5807a702996"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126cb673d5807a702997"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126db673d5807a702998"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126db673d5807a702999"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126db673d5807a70299a"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126db673d5807a70299b"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126db673d5807a70299c"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126db673d5807a70299d"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126eb673d5807a70299e"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126eb673d5807a70299f"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126eb673d5807a7029a0"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126eb673d5807a7029a1"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126eb673d5807a7029a2"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126fb673d5807a7029a3"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126fb673d5807a7029a4"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126fb673d5807a7029a5"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126fb673d5807a7029a6"
+  },
+  "Zone": {
+    "Zone1": 1,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 2
+},{
+  "_id": {
+    "$oid": "60cb126fb673d5807a7029a7"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1270b673d5807a7029a8"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1270b673d5807a7029a9"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1270b673d5807a7029aa"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1270b673d5807a7029ab"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1270b673d5807a7029ac"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1270b673d5807a7029ad"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1271b673d5807a7029ae"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1271b673d5807a7029af"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1271b673d5807a7029b0"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1271b673d5807a7029b1"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1271b673d5807a7029b2"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1271b673d5807a7029b3"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1271b673d5807a7029b4"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1271b673d5807a7029b5"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1272b673d5807a7029b6"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+},{
+  "_id": {
+    "$oid": "60cb1272b673d5807a7029b7"
+  },
+  "Zone": {
+    "Zone1": 2,
+    "Zone2": 1,
+    "Zone3": 0
+  },
+  "General": 3
+}]
