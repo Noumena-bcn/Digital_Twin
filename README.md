@@ -48,6 +48,8 @@ Is used to execute the codes for each camera at the same time. In this case, the
 
 Briefly, the planar homography relates the transformation between two planes.
 
+![image](https://user-images.githubusercontent.com/62296738/122360320-9b070e00-cf56-11eb-8188-d45a5d2274b5.png)
+
 The procedure is shown below
 
 ### Mongo
