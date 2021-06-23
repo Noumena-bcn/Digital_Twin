@@ -62,6 +62,8 @@ The JSON format that is created for occupancy has the following structure:
 	}
 ```
 
+The result it can be found on [JSON_Occupancy](https://github.com/Noumena-bcn/Digital_Twin/tree/main/src/JSON_Occupancy)
+
 ## Node Red Flow
 
 That flow was created for the comunication with the server. Where the node "File IN" node is used to extract the data from the JSON file.
