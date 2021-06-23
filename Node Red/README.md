@@ -67,7 +67,7 @@ The result it can be found on [JSON_Occupancy](https://github.com/Noumena-bcn/Di
 ## Node Red Flow
 
 That flow was created for the comunication with the server. Where the node "File IN" node is used to extract the data from the JSON file.
-The data is extracted in string format, so using the "JSON" node, you can transform the string to JSON
+The data is extracted in string format, so using the "JSON" node, you can transform the string to JSON.
 Then this information is send to the server using the "HTTP" node.
 
 ![Screenshot from 2021-06-23 12-04-22](https://user-images.githubusercontent.com/62296738/123079034-d6ed1800-d41b-11eb-9fcd-6fc23cbb54b6.png)
