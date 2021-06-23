@@ -32,8 +32,6 @@ It also create a floor video, where you can watch the flow of the detected peopl
 
 On that folder, you'll find the visualizacion results: [Floor videos](https://drive.google.com/drive/folders/14tlNH5MsLtoytXrMXISb9HL-4G3_EfgS)
 
-The result it can be found on [JSON_Occupancy](https://github.com/Noumena-bcn/Digital_Twin/tree/main/src/JSON_Occupancy)
-
 The JSON format that is created for predictive modelling is the following one:
 
 ```
