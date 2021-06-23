@@ -20,6 +20,12 @@ Maps:
 
 Inside that folder, you can find the focus of each camera
 
+## Node Red
+
+Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
+
+![image](https://user-images.githubusercontent.com/62296738/123081560-5da2f480-d41e-11eb-8f98-021d1f0ed77f.png)
+
 ## yolov4-opencv
 
 General purpose scripts to use [YOLOv4](https://github.com/AlexeyAB/darknet) with OpenCV's DNN module for object detection.
