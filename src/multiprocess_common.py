@@ -1,6 +1,6 @@
 import multiprocessing
 import digital_twin_func as dt
-import map_prova as mp
+import overlap_fix as ocams
 from multiprocessing import Pipe
 import cv2
 import argparse
@@ -28,11 +28,11 @@ if __name__ == "__main__":
     parent_conn5, child_conn5 = Pipe()
 
     #  child_conn,
-    cam2 = multiprocessing.Process(target= dt.main, args = ('CAM2','/home/noumena/Documents/DT_vid/vid_new/cam2_1_.mp4', '/home/noumena/Documents/Digital_Twin/Yolov4+Deepsort/yolo_json_files/cam2_1__output.json',child_conn,))
+    cam2 = multiprocessing.Process(target= ocams.main, args = ('CAM2','/home/noumena/Documents/DT_vid/vid_new/cam2_1_.mp4', '/home/noumena/Documents/Digital_Twin/Yolov4+Deepsort/yolo_json_files/cam2_1__output.json',child_conn,))
     # cam5 = multiprocessing.Process(target= dt.main, args = ('CAM5','/home/noumena/Documents/DT_vid/cam5.mp4', '/home/noumena/Documents/Digital_Twin/Yolov4+Deepsort/yolo_json_files/cam5_track_output.json',child_conn1,))
-    cam6 = multiprocessing.Process(target= dt.main, args = ('CAM6','/home/noumena/Documents/DT_vid/vid_new/cam6_1_.mp4', '/home/noumena/Documents/Digital_Twin/Yolov4+Deepsort/yolo_json_files/cam6_1__output.json',child_conn2,))
-    cam7 = multiprocessing.Process(target= dt.main, args = ('CAM7','/home/noumena/Documents/DT_vid/vid_new/cam7_1.mp4', '/home/noumena/Documents/Digital_Twin/Yolov4+Deepsort/yolo_json_files/cam7_1_output.json',child_conn3,))
-    cam8 = multiprocessing.Process(target= dt.main, args = ('CAM8','/home/noumena/Documents/DT_vid/vid_new/cam8_1.mp4', '/home/noumena/Documents/Digital_Twin/Yolov4+Deepsort/yolo_json_files/cam8_1_output.json',child_conn4,))
+    cam6 = multiprocessing.Process(target= ocams.main, args = ('CAM6','/home/noumena/Documents/DT_vid/vid_new/cam6_1_.mp4', '/home/noumena/Documents/Digital_Twin/Yolov4+Deepsort/yolo_json_files/cam6_1__output.json',child_conn2,))
+    cam7 = multiprocessing.Process(target= ocams.main, args = ('CAM7','/home/noumena/Documents/DT_vid/vid_new/cam7_1.mp4', '/home/noumena/Documents/Digital_Twin/Yolov4+Deepsort/yolo_json_files/cam7_1_output.json',child_conn3,))
+    cam8 = multiprocessing.Process(target= ocams.main, args = ('CAM8','/home/noumena/Documents/DT_vid/vid_new/cam8_1.mp4', '/home/noumena/Documents/Digital_Twin/Yolov4+Deepsort/yolo_json_files/cam8_1_output.json',child_conn4,))
     cam9 = multiprocessing.Process(target= dt.main, args = ('CAM9','/home/noumena/Documents/DT_vid/cam9.mp4', '/home/noumena/Documents/Digital_Twin/Yolov4+Deepsort/yolo_json_files/cam9_track_output.json',child_conn5,))
     
 
@@ -44,14 +44,25 @@ if __name__ == "__main__":
     cam8.start()
     cam9.start()
     
-    result = cv2.VideoWriter('map_output.mp4', 
-                         cv2.VideoWriter_fourcc(*'MJPG'),
-                         15, (1422, 799))
+
+
 
 
     det_objects = []
+    occupancy = []
     frame_num = 0
     col_name = "test6"
+    col_occ = "testocc"
+
+    map_save = cv2.imread('map.png')
+    codec = cv2.VideoWriter_fourcc(*'mp4v')
+    out = cv2.VideoWriter('project.mp4',codec, 15, (map_save.shape[1], map_save.shape[0]))
+    # print(map_save)
+    # # result = cv2.VideoWriter('map_overlap.mp4', -1, 20.0, (map_save.shape[1], map_save.shape[0]))
+    # result = cv2.VideoWriter('map_overlap.mp4', 
+    #                      cv2.VideoWriter_fourcc(*'MJPG'),
+    #                      10, (map_save.shape[1], map_save.shape[0]))
+
 
     while True:
         map_shape = cv2.imread('map.png')
@@ -61,7 +72,12 @@ if __name__ == "__main__":
         cam7_points = parent_conn3.recv()
         cam8_points = parent_conn4.recv()
         cam9_points = parent_conn5.recv()
+        # cam5_points = parent_conn1.recv()
         
+        occupz1 = 0
+        
+
+
         for points2 in cam2_points:
             for points8 in cam8_points:
                 zone = 1
@@ -93,6 +109,7 @@ if __name__ == "__main__":
                                 "coordinates_map": [float(avg[0]), float(avg[1])],
                                 "frame_number": float(frame_num),
                             }
+                    occupz1 += 1
                     det_objects.append(obj)
 
 
@@ -110,6 +127,7 @@ if __name__ == "__main__":
                         "coordinates_map": [float(points[0]), float(points[1])],
                         "frame_number": float(frame_num),
                     }
+            occupz1 += 1
             det_objects.append(obj)
 
         for points in cam8_points:
@@ -126,6 +144,7 @@ if __name__ == "__main__":
                         "coordinates_map": [float(points[0]), float(points[1])],
                         "frame_number": float(frame_num),
                     }
+            occupz1 += 1
             det_objects.append(obj)
 
         
@@ -165,6 +184,7 @@ if __name__ == "__main__":
                             }
                     cam6_points.remove(points6)
                     cam7_points.remove(points7)
+                    occupz1 += 1
                     det_objects.append(obj)
                     
 
@@ -184,6 +204,7 @@ if __name__ == "__main__":
                         "coordinates_map": [float(points[0]), float(points[1])],
                         "frame_number": float(frame_num),
                     }
+            occupz1 += 1
             det_objects.append(obj)
         
         for points in cam7_points:
@@ -200,7 +221,10 @@ if __name__ == "__main__":
                         "coordinates_map": [float(points[0]), float(points[1])],
                         "frame_number": float(frame_num),
                     }
+            occupz1 += 1
             det_objects.append(obj)
+
+        occupz2 = 0
 
         for points in cam9_points:
             points_floor = (points[0], points[1])
@@ -217,15 +241,50 @@ if __name__ == "__main__":
                         "coordinates_map": [float(points[0]), float(points[1])],
                         "frame_number": float(frame_num),
                     }
+            occupz2 += 1
             det_objects.append(obj)
 
+        occupz3 = 0
+
+        # for points in cam5_points:
+        #     points_floor = (points[0], points[1])
+        #     cv2.circle(map_shape, points_floor, 5, (255, 0, 255), -1)
+
+        #     zone = 3
+
+        #     obj = {
+        #                 "Zone": float(zone),
+        #                 "class_title": "person",
+        #                 "cam":{
+        #                     "cam5":{
+        #                             "coordinates":[float(points[2]), float(points[3])], "width": float(points[4]), "height":float(points[5])
+        #                             }},
+        #                 "coordinates_map": [float(points[0]), float(points[1])],
+        #                 "frame_number": float(frame_num),
+        #             }
+        #     occupz3 += 1
+        #     det_objects.append(obj)
+
+
+ 
+    
+        out.write(map_shape)
+  
+
+        # result.write(map_shape) 
+        print((map_shape.shape))
         cv2.imshow("Final Result", map_shape)
         if cv2.waitKey(1) & 0xFF == ord('q'): break
-        result.write(map_shape)
+        
+
 
         frame_num += 1 
-        # print("det_objects",det_objects)
+       
+        global_occ = occupz1 + occupz2 + occupz3
+
+       
         print("frame_num",frame_num)
+
         # if args.save:
         #     if writer is None:
         #         fourcc = cv2.VideoWriter_fourcc(*'mp4v')
@@ -233,8 +292,24 @@ if __name__ == "__main__":
         #         writer = cv2.VideoWriter(outname, fourcc, 15, (map_shape.shape[1], map_shape.shape[0]), True)
         #     writer.write(map_shape)
 
+        ############### OCCUPANCY #################
 
-        store_result_detections = stm.store_mongo(det_objects, col_name, database="TestDT")
+        obj_occ = {
+                        "Zone":{
+                            "Zone1":float(occupz1),
+                            "Zone2":float(occupz2),
+                            "Zone3":float(occupz3),
+                                },
+                        "General": float(global_occ),
+                    }
+        occupancy.append(obj_occ)
+        # store_result_detections = stm.store_mongo(occupancy, col_occ, database="TestDT")
+        print("frame_num",occupancy)
+        occupancy = []
+
+        ############### OCCUPANCY #################
+
+        # store_result_detections = stm.store_mongo(det_objects, col_name, database="TestDT")
         det_objects = []
     
     
@@ -247,7 +322,6 @@ if __name__ == "__main__":
     cam8.join()
     cam9.join()
     
-    
-    cam9.join()
+
 
     print("Done!")

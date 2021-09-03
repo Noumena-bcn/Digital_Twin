@@ -204,9 +204,9 @@ while True:
                     }
                 det_objects.append(obj)
 
-        FPS_value = 1 / (end - start)
-    	fps_label = "FPS: %.2f" % FPS_value
-        bar.update(frame_number, FPS=FPS_value)
+        # FPS_value = 1 / (end - start)
+    	# fps_label = "FPS: %.2f" % FPS_value
+        # bar.update(frame_number, FPS=FPS_value)
     except KeyboardInterrupt:
         break
 
