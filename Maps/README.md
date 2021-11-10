@@ -1,9 +1,11 @@
 ## Camera location
 La Salle map with the location and "focus" of the cameras
 
-![image](https://user-images.githubusercontent.com/62296738/115376833-54ec3300-a1cf-11eb-89f8-4c7043fb8bab.png)
+![image](https://user-images.githubusercontent.com/62296738/141108776-02e3ff66-a503-42bf-a5d5-a3734de6e266.png)
+
 
 ## Map zones
 La Salle map with the zones for the different cameras
 
-![image](https://user-images.githubusercontent.com/62296738/115544883-73236300-a2a3-11eb-8e61-74aebcaa36b5.png)
+![image](https://user-images.githubusercontent.com/62296738/141108677-5a24d4ff-edb9-4e03-9de7-9f3ea07e15b1.png)
+
