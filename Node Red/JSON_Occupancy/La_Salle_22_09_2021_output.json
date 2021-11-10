@@ -1,0 +1,6782 @@
+[
+ {
+   "Zone": {
+      "Zone1": 4,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "09:00:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "09:01:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:01:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:02:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:02:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:03:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:03:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:04:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:04:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:05:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:05:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:06:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:06:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:07:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:07:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:08:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:08:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:09:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:09:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:10:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:10:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:11:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:11:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:12:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:12:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:13:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:13:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:14:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:14:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:15:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:15:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:16:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:16:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:17:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:17:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:18:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:18:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:19:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:19:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:20:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:20:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:21:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:21:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:22:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:22:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "09:23:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:23:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:24:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:24:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:25:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:25:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "09:26:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:26:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:27:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:27:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:28:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:28:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:29:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:29:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:30:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:30:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:31:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:31:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:32:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:32:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:33:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:33:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:34:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:34:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:35:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:35:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:36:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:36:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:37:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:37:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:38:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:38:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:39:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:39:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:40:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:40:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:41:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:41:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:42:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:42:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:43:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:43:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "09:44:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:44:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:45:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:45:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:46:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:46:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:47:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:47:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:48:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:48:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:49:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:49:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:50:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:50:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:51:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:51:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:52:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:52:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:53:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:53:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:54:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:54:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:55:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:55:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:56:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:56:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:57:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "09:57:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "09:58:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:58:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:59:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "09:59:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:00:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "10:00:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:01:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "10:01:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "10:02:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:02:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:03:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:03:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:04:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "10:04:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "10:05:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:05:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "10:06:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:06:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:07:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "10:07:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "10:08:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "10:08:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "10:09:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 0,
+   "Time": "10:09:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:10:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:10:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:11:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:11:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:12:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:12:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:13:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:13:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:14:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:14:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:15:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:15:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:16:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:16:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:17:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:17:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:18:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:18:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:19:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:19:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:20:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:20:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:21:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:21:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:22:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:22:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:23:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:23:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:24:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:24:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:25:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "10:25:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:26:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:26:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:27:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:27:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:28:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:28:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:29:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:29:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:30:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:30:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:31:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:31:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:32:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:32:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:33:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:33:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:34:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:34:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:35:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:35:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:36:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:36:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:37:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:37:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "10:38:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:38:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 5,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "10:39:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:39:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:40:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:40:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:41:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:41:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:42:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:42:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:43:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:43:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "10:44:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 7,
+   "Time": "10:44:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "10:45:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:45:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:46:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:46:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:47:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 7,
+   "Time": "10:47:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 7,
+   "Time": "10:48:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:48:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "10:49:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 7,
+   "Time": "10:49:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:50:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "10:50:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:51:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:51:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "10:52:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:52:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "10:53:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:53:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:54:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:54:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:55:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "10:55:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:56:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:56:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "10:57:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:57:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "10:58:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:58:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:59:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "10:59:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "11:00:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:00:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:01:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "11:01:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:02:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:02:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:03:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:03:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:04:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:04:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:05:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:05:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:06:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:06:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "11:07:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:07:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:08:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:08:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:09:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "11:09:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:10:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:10:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:11:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:11:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:12:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:12:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:13:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:13:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:14:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:14:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:15:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:15:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:16:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:16:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:17:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:17:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:18:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:18:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 5,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "11:19:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 5,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "11:19:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:20:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:20:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:21:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:21:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:22:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:22:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:23:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:23:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "11:24:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:24:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:25:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:25:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:26:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:26:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:27:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:27:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:28:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:28:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:29:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:29:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "11:30:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:30:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:31:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:31:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:32:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:32:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:33:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:33:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:34:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "11:34:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:35:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "11:35:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "11:36:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:36:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:37:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:37:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:38:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:38:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:39:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:39:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:40:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:40:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:41:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:41:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:42:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:42:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:43:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:43:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:44:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:44:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:45:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:45:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:46:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:46:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:47:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:47:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:48:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:48:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:49:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:49:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:50:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:50:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:51:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:51:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:52:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:52:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:53:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:53:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:54:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:54:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:55:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:55:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:56:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "11:56:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "11:57:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "11:57:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:58:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "11:58:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "11:59:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "11:59:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:00:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:00:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:01:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:01:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:02:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:02:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:03:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:03:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:04:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:04:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:05:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:05:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:06:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:06:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:07:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:07:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:08:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:08:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:09:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:09:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:10:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:10:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:11:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:11:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:12:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:12:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:13:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:13:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:14:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:14:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:15:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:15:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:16:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:16:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:17:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:17:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:18:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:18:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:19:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:19:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:20:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:20:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:21:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:21:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:22:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:22:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:23:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:23:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:24:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:24:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:25:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:25:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:26:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:26:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:27:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:27:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:28:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:28:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:29:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:29:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:30:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:30:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:31:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "12:31:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:32:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:32:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:33:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "12:33:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:34:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:34:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:35:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "12:35:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "12:36:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "12:36:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "12:37:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 3,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "12:37:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "12:38:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "12:38:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:39:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:39:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:40:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:40:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:41:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:41:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:42:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:42:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:43:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:43:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:44:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:44:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:45:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:45:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:46:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "12:46:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:47:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:47:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:48:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "12:48:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:49:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:49:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:50:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "12:50:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:51:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:51:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:52:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:52:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:53:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:53:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:54:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:54:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:55:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:55:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:56:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:56:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:57:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:57:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:58:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:58:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "12:59:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "12:59:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "13:00:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:00:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:01:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 1,
+   "Time": "13:01:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:02:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:02:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:03:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:03:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:04:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:04:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:05:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:05:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:06:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:06:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:07:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:07:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:08:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:08:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:09:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:09:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:10:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:10:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:11:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:11:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:12:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:12:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:13:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:13:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:14:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:14:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:15:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:15:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:16:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 0,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:16:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:17:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "13:17:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:18:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "13:18:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:19:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:19:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:20:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:20:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "13:21:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:21:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:22:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:22:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:23:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "13:23:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:24:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:24:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:25:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:25:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:26:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:26:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:27:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:27:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:28:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "13:28:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:29:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:29:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:30:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:30:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:31:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:31:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:32:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:32:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:33:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:33:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:34:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:34:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:35:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:35:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:36:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:36:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:37:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:37:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:38:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:38:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:39:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:39:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:40:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:40:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:41:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:41:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:42:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:42:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:43:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:43:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:44:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:44:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:45:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:45:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "13:46:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:46:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:47:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:47:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:48:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:48:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:49:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:49:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:50:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:50:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:51:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:51:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:52:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:52:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:53:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:53:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "13:54:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "13:54:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:55:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:55:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:56:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "13:56:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:57:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:57:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "13:58:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:58:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "13:59:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "13:59:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:00:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "14:00:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "14:01:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:01:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "14:02:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:02:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:03:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "14:03:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "14:04:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "14:04:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:05:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:05:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:06:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "14:06:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:07:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:07:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "14:08:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:08:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "14:09:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:09:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:10:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 3,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 7,
+   "Time": "14:10:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 3,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "14:11:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "14:11:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 2,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "14:12:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 3,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 6,
+   "Time": "14:12:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "14:13:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:13:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:14:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "14:14:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:15:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:15:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:16:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:16:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 4,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "14:17:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:17:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:18:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:18:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:19:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:19:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:20:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 2,
+   "Time": "14:20:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:21:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:21:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:22:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:22:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:23:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:23:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "14:24:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "14:24:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:25:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:25:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:26:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "14:26:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:27:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:27:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "14:28:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:28:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:29:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:29:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:30:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:30:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:31:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:31:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:32:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:32:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:33:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 3,
+      "Zone7": 0
+   },
+   "General": 5,
+   "Time": "14:33:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:34:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:34:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:35:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:35:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:36:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:36:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:37:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 1,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:37:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 1,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 4,
+   "Time": "14:38:00",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": 0,
+      "Zone2": 2,
+      "Zone7": 0
+   },
+   "General": 3,
+   "Time": "14:38:30",
+   "Date": "2021-09-22"
+},
+ {
+   "Zone": {
+      "Zone1": null,
+      "Zone2": null,
+      "Zone7": null
+   },
+   "General": null,
+   "Time": "",
+   "Date": ""
+}
+]
