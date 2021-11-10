@@ -51,18 +51,62 @@ The JSON format that is created for occupancy has the following structure:
 
 ```
 	{
-	    "Zone": {
-		           "Zone 1": (valor)
-		           "Zone 2": (valor)
-		           "Zone 3": (valor) 
-		           "Zone 4": (valor)
-		           "Zone 5": (valor)     
-		         }
-	  "General": (valor)
-	}
+	   "Zone": {
+	   
+	      "Zone1": (value),
+	      "Zone2": (value),
+	      "Zone7": (value)
+	      
+	   },
+	   
+	   "General": (value),
+	   "Time": (str),
+	   "Date": (str)
+	},
 ```
 
 The result it can be found on [JSON_Occupancy](https://github.com/Noumena-bcn/Digital_Twin/tree/main/src/JSON_Occupancy)
+
+## Final_JSON
+
+The JSON format that is created for DataModel has the following structure:
+
+```
+	{
+	  "digital_twin": {
+		    "temperature": {
+		      "sensor1": (value),
+		      "sensor2": (value),
+		      "sensor3": (value),
+		      "sensor4": (value),
+		      "siemens": (value)
+		    },
+		    "huimidity": {
+		      "sensor1": (value),
+		      "sensor2": (value),
+		      "sensor3": (value),
+		      "sensor4": (value),
+		      "siemens": (value)
+		    },
+		    "co2": {
+		      "sensor1": (value),
+		      "sensor2": (value),
+		      "sensor3": (value),
+		      "sensor4": (value)
+		    },
+		    "zone": {
+		      "zone 1": (value),
+		      "zone 2": (value),
+		      "zone 3": (value),
+		      "zone 4": (value),
+		      "zone 5": (value),
+		      "zone 6": (value),
+		      "zone 7": (value)
+		   }
+		} 
+	}
+```
+
 
 ## Node Red Flow
 
